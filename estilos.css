@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background: rgb(162, 0, 255);
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button{
+    background-color: red;
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
